@@ -37,3 +37,18 @@ main {
 header h1 {
   text-align: center;
 }
+
+#default{
+  font-size: .75em;
+  color: black ;
+  float:right;
+}
+#lform{
+float:right;
+}
+#reglink{
+  float:right;
+}
+#fail{
+  float:right;
+}
